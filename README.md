@@ -6,6 +6,8 @@ Using the knowledge I had gained thus for in my IoT course work as well as vario
 The final project outcome has little practical functionality and is nothing but a thing-a-ma-bob but the development of C++, HTML, and JavaScript code was no simple task to create such a piece.
 I was able to deepen my understanding of IoT related functionality, particularily in websocket communication, which I see as a powerful tool for further IoT related projects.
 
+This repository can be opened directly in VSCode and depends on the PlatformIO Extension to build the binary file to then transfer to the DOIT ESP32 Dev Board.
+
 The key functionalites of the system are:
   1. Establish a webpage server on the ESP32 microcontroller
   2. Allow control of a simple Red LED, a Servo motor, and an array of RGB LEDs from the webpage
@@ -22,12 +24,12 @@ The key functionalites of the system are:
 
 # Photo References
 Front View
-![IMG_0649](https://github.com/PPrice33/IoT_Project/assets/140994064/0691f4c8-169d-447b-aef6-20b2f785dd6c)
+![288912034-308d8089-1547-49ee-93db-8e83fd5f6a76](https://github.com/p3price/IoT_Project/assets/126983543/fb455689-da67-4408-8efb-fe4fa5ec1802)
 Rear View
-![IMG_0648](https://github.com/PPrice33/IoT_Project/assets/140994064/308d8089-1547-49ee-93db-8e83fd5f6a76)
+![288911954-0691f4c8-169d-447b-aef6-20b2f785dd6c](https://github.com/p3price/IoT_Project/assets/126983543/4a837067-7f1b-49b2-89f8-1d18b6bfede2)
 Servo Connection
-![IMG_0650](https://github.com/PPrice33/IoT_Project/assets/140994064/b8df5277-5776-4730-9164-bd1d55f0791c)
+![288912063-b8df5277-5776-4730-9164-bd1d55f0791c](https://github.com/p3price/IoT_Project/assets/126983543/facedc6a-74b6-4e3f-b8ca-83d2820621a5)
 Webpage Screenshot
-<img width="1036" alt="288912117-e18b5840-305b-4047-a942-07eb82b0a068" src="https://github.com/PPrice33/IoT_Project/assets/140994064/c6568244-8928-4e44-922c-a5d1629129f7">
+<img width="1036" alt="288912117-e18b5840-305b-4047-a942-07eb82b0a068" src="https://github.com/p3price/IoT_Project/assets/126983543/7ef31cc3-28dc-47bf-9d4b-5a1e9932eb88">
 Operation Example
-![IMG_0654](https://github.com/PPrice33/IoT_Project/assets/140994064/ca4ccefe-ca3c-4fdf-ae57-2c00e42a148c)
+![288912165-ca4ccefe-ca3c-4fdf-ae57-2c00e42a148c](https://github.com/p3price/IoT_Project/assets/126983543/20c6cf3f-c88e-44de-9c67-f57ec2898ee3)
